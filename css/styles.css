@@ -108,6 +108,7 @@ textarea {
   max-width: 500px;
   padding: 10px;
   margin: 6px 0 15px;
+  vertical-align: middle;
   border: 1px solid #5F3221;
   background-color: #DCB149;
   color: #5F3221;
