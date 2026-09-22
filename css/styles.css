@@ -6,7 +6,7 @@ body {
   margin: 0;
   font-family: Arial, sans-serif;
   background-color: #DCB149;
-  color: #3f3028;
+  color: #5F3221;
   line-height: 1.6;
 }
 
@@ -17,6 +17,7 @@ header {
 }
 
 header img {
+  /* LOGO */
   max-width: 200px;
   height: auto;
 }
@@ -31,7 +32,7 @@ nav ul {
 }
 
 nav a {
-  color: #fff8ed;
+  color: #DCB149;
   text-decoration: none;
   font-weight: bold;
 }
@@ -47,13 +48,13 @@ main {
 }
 
 h1 {
-  color: #6b4226;
+  color: #5F3221;
   font-size: 2rem;
   margin-bottom: 25px;
 }
 
 h2 {
-  color: #8a5a32;
+  color: #9E7235;
   margin-top: 30px;
 }
 
@@ -84,8 +85,7 @@ form {
 fieldset {
   margin-bottom: 20px;
   padding: 20px;
-  border: 1px solid #c9a77b;
-  background-color: #fffdf8;
+  border: 1px solid #5F3221;
 }
 
 legend {
