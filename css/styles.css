@@ -1,3 +1,10 @@
+/*
+ * Color Hex Code
+ * Dark: #5F3221
+ * Mid: #7E522B
+ * Light: #DCB149
+ */
+
 * {
   box-sizing: border-box;
 }
@@ -90,7 +97,7 @@ fieldset {
 
 legend {
   font-weight: bold;
-  color: #6b4226;
+  color: #5F3221;
 }
 
 input,
@@ -101,24 +108,25 @@ textarea {
   padding: 10px;
   margin: 6px 0 15px;
   font: inherit;
+  background-color: #5F3221;
 }
 
 button {
   padding: 10px 20px;
-  background-color: #6b4226;
-  color: #fff8ed;
+  background-color: #5F3221;
+  color: #DCB149;
   border: none;
   cursor: pointer;
   font-weight: bold;
 }
 
 button:hover {
-  background-color: #8a5a32;
+  background-color: #7E522B;
 }
 
 footer {
-  background-color: #6b4226;
-  color: #fff8ed;
+  background-color: #5F3221;
+  color: #DCB149;
   text-align: center;
   padding: 20px;
   margin-top: 40px;
