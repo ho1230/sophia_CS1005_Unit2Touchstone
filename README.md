@@ -1,8 +1,6 @@
 ***** ***** UPDATE For Touchstone 3 ***** *****
-*                                             *
-* bakery-behind-scenes_c.mp4 file too large   *
-* cannot be uploaded                          *
-*                                             *
+* bakery-behind-scenes_c.mp4 file too large   
+* cannot be uploaded                          
 ***** ***** UPDATE For Touchstone 3 ***** *****
 
 Client A: North Star Bakery
