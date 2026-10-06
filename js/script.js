@@ -11,10 +11,10 @@ document.addEventListener("DOMContentLoaded", function () {
     const productName = button.dataset.product;
     // Show previously saved favorites
     if (favorites.includes(productName)) {
-      button.textContent = "Add to Favor";
+      button.textContent = "Remove From Favor";
       button.classList.add("favorited");
     } else {
-      button.textContent = "Remove From Favor";
+      button.textContent = "Add to Favor";
       button.classList.remove("favorited");
     }
     
