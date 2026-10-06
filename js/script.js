@@ -13,7 +13,10 @@ document.addEventListener("DOMContentLoaded", function () {
     if (favorites.includes(productName)) {
       button.textContent = "Add to Favor";
       button.classList.add("favorited");
+    } else {
+      button.textContent = "Remove From Favor";
     }
+    
     button.addEventListener("click", function () {
       if (favorites.includes(productName)) {
         // Remove product from favorites
