@@ -18,9 +18,9 @@ document.addEventListener("DOMContentLoaded", function () {
       if (favorites.includes(productName)) {
         // Remove product from favorites
         favorites = favorites.filter(function (item) {
-            return item !== productName;
+            return item != productName;
         });
-        button.textContent = "Remove From Favor";
+        button.textContent = "Add to Favor";
         button.classList.remove("favorited");
       } else {
           // Add product to favorites
