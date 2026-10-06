@@ -15,6 +15,7 @@ document.addEventListener("DOMContentLoaded", function () {
       button.classList.add("favorited");
     } else {
       button.textContent = "Remove From Favor";
+      button.classList.remove("favorited");
     }
     
     button.addEventListener("click", function () {
